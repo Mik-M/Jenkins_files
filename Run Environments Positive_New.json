@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://qauto.forstudy.space/api",
+    "positiveName": "Bo",
+    "negName": "B"
+  },
+  {
+    "url": "https://qauto.forstudy.space/api",
+    "positiveName": "Bob",
+    "negName": ""
+  },
+  {
+    "url": "https://qauto.forstudy.space/api",
+    "positiveName": "BobbyBobbyBobbyBobby",
+    "negName": "12345"
+  },
+  {
+    "url": "https://qauto.forstudy.space/api",
+    "positiveName": "BobbyBobbyBobbyBobb",
+    "negName": "BobbyBobbyBobbyBobbyqqqqqqqqqqqqqqqq"
+  },
+  {
+    "url": "https://qauto2.forstudy.space/api",
+    "positiveName": "Bo",
+    "negName": "B"
+  },
+  {
+    "url": "https://qauto2.forstudy.space/api",
+    "positiveName": "Bob",
+    "negName": ""
+  },
+  {
+    "url": "https://qauto2.forstudy.space/api",
+    "positiveName": "BobbyBobbyBobbyBobby",
+    "negName": "12345"
+  },
+  {
+    "url": "https://qauto2.forstudy.space/api",
+    "positiveName": "BobbyBobbyBobbyBobb",
+    "negName": "BobbyBobbyBobbyBobbyqqqqqqqqqqqqqqqq"
+  }
+]
